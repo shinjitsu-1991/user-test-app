@@ -1,4 +1,12 @@
-import {CLEAN_TEST, CURRENT_TEST, EDIT_TEST_TIME, HIDE_LOADER, REQUEST_TESTS, SHOW_LOADER} from "./types";
+import {
+    CLEAN_TEST,
+    CURRENT_TEST,
+    EDIT_CUR_QUESTION,
+    EDIT_TEST_TIME,
+    HIDE_LOADER,
+    REQUEST_TESTS,
+    SHOW_LOADER
+} from "./types";
 
 export function showLoader() {
     return {
@@ -35,5 +43,12 @@ export function getTests() {
 export function cleanTest() {
     return {
         type: CLEAN_TEST
+    }
+}
+
+export function editCurQuestion(number) {
+    return {
+        type: EDIT_CUR_QUESTION,
+        payload: number
     }
 }

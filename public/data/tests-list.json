@@ -2,7 +2,7 @@
   {
     "img": "https://peopletalk.ru/wp-content/uploads/2018/06/1a_-_potter-642x450.png",
     "label": "На сколько хорошо ты знаешь фильм 'Гарри Поттер'?",
-    "time_limit": "15",
+    "time_limit": "150",
     "questions_file_name": "test1"
   },
   {
