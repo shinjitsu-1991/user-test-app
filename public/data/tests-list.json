@@ -1,0 +1,14 @@
+[
+  {
+    "img": "https://peopletalk.ru/wp-content/uploads/2018/06/1a_-_potter-642x450.png",
+    "label": "На сколько хорошо ты знаешь фильм 'Гарри Поттер'?",
+    "time_limit": "15",
+    "questions_file_name": "test1"
+  },
+  {
+    "img": "https://vignette.wikia.nocookie.net/ru.starwars/images/0/0f/Death_Stari.jpg/revision/latest?cb=20150601131320",
+    "label": "На сколько хорошо ты знаешь фильм 'Звездные войны'?",
+    "time_limit": "15",
+    "questions_file_name": "test2"
+  }
+]

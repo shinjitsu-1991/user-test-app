@@ -1,0 +1,10 @@
+export const GET_TESTS = 'GET_TESTS';
+export const REQUEST_TESTS = 'REQUEST_TESTS';
+export const SHOW_LOADER = 'SHOW_LOADER';
+export const HIDE_LOADER = 'HIDE_LOADER';
+export const CURRENT_TEST_DATA = 'CURRENT_TEST_DATA';
+export const CURRENT_TEST = 'CURRENT_TEST';
+export const EDIT_TEST_TIME = 'EDIT_TEST_TIME';
+export const EDIT_CUR_QUESTION = 'CUR_QUESTION';
+export const EDIT_CORRECT_ANSWERS = 'CORRECT_ANSWERS';
+export const CLEAN_TEST = 'CLEAN_TEST';
