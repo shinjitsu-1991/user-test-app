@@ -1,160 +1,165 @@
 [
   {
-    "question": "Кто рассказал Гарри Поттеру, что он волшебник?",
-    "answers": [
+    "questions": [
       {
-        "option": "ХАГРИД",
-        "is_true": "true"
+        "question": "Кто рассказал Гарри Поттеру, что он волшебник?",
+        "answers": [
+          {
+            "option": "ХАГРИД",
+            "is_true": "true"
+          },
+          {
+            "option": "ПРОФЕССОР ДАМБЛДОР",
+            "is_true": "false"
+          }
+        ]
       },
       {
-        "option": "ПРОФЕССОР ДАМБЛДОР",
-        "is_true": "false"
+        "question": "На какой факультет его уговаривала поступить Распределяющая шляпа?",
+        "answers": [
+          {
+            "option": "СЛИЗЕРИН",
+            "is_true": "true"
+          },
+          {
+            "option": "ГРИФФИНДОР",
+            "is_true": "false"
+          }
+        ]
+      },
+      {
+        "question": "Как назывался магазин Фреда и Джорджа?",
+        "answers": [
+          {
+            "option": "«ВСЕВОЗМОЖНЫЕ ВОЛШЕБНЫЕ ВРЕДИЛКИ»",
+            "is_true": "true"
+          },
+          {
+            "option": "«СУМАСШЕДШИЙ МАГАЗИН БРАТЬЕВ УИЗЛИ»",
+            "is_true": "false"
+          }
+        ]
+      },
+      {
+        "question": "Кто защищает проход в спальню Гриффиндора?",
+        "answers": [
+          {
+            "option": "ТРЕХГОЛОВАЯ СОБАКА",
+            "is_true": "false"
+          },
+          {
+            "option": "ПОЛНАЯ ДАМА",
+            "is_true": "true"
+          },
+          {
+            "option": "СЭР КЭДОГАН",
+            "is_true": "false"
+          }
+        ]
+      },
+      {
+        "question": "Человек, рождённый в семье волшебников, но без магических способностей, называется...",
+        "answers": [
+          {
+            "option": "ГРЯЗНОКРОВКА",
+            "is_true": "false"
+          },
+          {
+            "option": "МАГЛ",
+            "is_true": "false"
+          },
+          {
+            "option": "СКВИБ",
+            "is_true": "true"
+          }
+        ]
+      },
+      {
+        "question": "В Квиддиче есть снитч, квоффл и…",
+        "answers": [
+          {
+            "option": "НИМБУС",
+            "is_true": "false"
+          },
+          {
+            "option": "БЛАДЖЕР",
+            "is_true": "true"
+          },
+          {
+            "option": "ФОБОС",
+            "is_true": "false"
+          }
+        ]
+      },
+      {
+        "question": "Кто воровал письма у Гарри в книге «Гарри Поттер и Тайная комната»?",
+        "answers": [
+          {
+            "option": "ДРАКО МАЛФОЙ",
+            "is_true": "false"
+          },
+          {
+            "option": "ДОББИ",
+            "is_true": "true"
+          },
+          {
+            "option": "КРЮКОХВАТ",
+            "is_true": "false"
+          }
+        ]
+      },
+      {
+        "question": "Сколько детей в семействе Уизли?",
+        "answers": [
+          {
+            "option": "5",
+            "is_true": "false"
+          },
+          {
+            "option": "7",
+            "is_true": "true"
+          },
+          {
+            "option": "10",
+            "is_true": "false"
+          }
+        ]
+      },
+      {
+        "question": "Кем работают родители Гермионы?",
+        "answers": [
+          {
+            "option": "УЧИТЕЛЯ",
+            "is_true": "false"
+          },
+          {
+            "option": "ДАНТИСТЫ",
+            "is_true": "true"
+          },
+          {
+            "option": "САНТЕХНИКИ",
+            "is_true": "false"
+          }
+        ]
+      },
+      {
+        "question": "Как вызвать патронуса?",
+        "answers": [
+          {
+            "option": "«ЭКСПЕКТО ПАТРОНУМ»",
+            "is_true": "true"
+          },
+          {
+            "option": "«ПАТРОНУМ ЭКСПОНСИА»",
+            "is_true": "false"
+          },
+          {
+            "option": "«ПЕРФОРАТОР ЭКСПЕРТО»",
+            "is_true": "false"
+          }
+        ]
       }
-    ]
-  },
-  {
-    "question": "На какой факультет его уговаривала поступить Распределяющая шляпа?",
-    "answers": [
-      {
-        "option": "СЛИЗЕРИН",
-        "is_true": "true"
-      },
-      {
-        "option": "ГРИФФИНДОР",
-        "is_true": "false"
-      }
-    ]
-  },
-  {
-    "question": "Как назывался магазин Фреда и Джорджа?",
-    "answers": [
-      {
-        "option": "«ВСЕВОЗМОЖНЫЕ ВОЛШЕБНЫЕ ВРЕДИЛКИ»",
-        "is_true": "true"
-      },
-      {
-        "option": "«СУМАСШЕДШИЙ МАГАЗИН БРАТЬЕВ УИЗЛИ»",
-        "is_true": "false"
-      }
-    ]
-  },
-  {
-    "question": "Кто защищает проход в спальню Гриффиндора?",
-    "answers": [
-      {
-        "option": "ТРЕХГОЛОВАЯ СОБАКА",
-        "is_true": "false"
-      },
-      {
-        "option": "ПОЛНАЯ ДАМА",
-        "is_true": "true"
-      },
-      {
-        "option": "СЭР КЭДОГАН",
-        "is_true": "false"
-      }
-    ]
-  },
-  {
-    "question": "Человек, рождённый в семье волшебников, но без магических способностей, называется...",
-    "answers": [
-      {
-        "option": "ГРЯЗНОКРОВКА",
-        "is_true": "false"
-      },
-      {
-        "option": "МАГЛ",
-        "is_true": "false"
-      },
-      {
-        "option": "СКВИБ",
-        "is_true": "true"
-      }
-    ]
-  },
-  {
-    "question": "В Квиддиче есть снитч, квоффл и…",
-    "answers": [
-      {
-        "option": "НИМБУС",
-        "is_true": "false"
-      },
-      {
-        "option": "БЛАДЖЕР",
-        "is_true": "true"
-      },
-      {
-        "option": "ФОБОС",
-        "is_true": "false"
-      }
-    ]
-  },
-  {
-    "question": "Кто воровал письма у Гарри в книге «Гарри Поттер и Тайная комната»?",
-    "answers": [
-      {
-        "option": "ДРАКО МАЛФОЙ",
-        "is_true": "false"
-      },
-      {
-        "option": "ДОББИ",
-        "is_true": "true"
-      },
-      {
-        "option": "КРЮКОХВАТ",
-        "is_true": "false"
-      }
-    ]
-  },
-  {
-    "question": "Сколько детей в семействе Уизли?",
-    "answers": [
-      {
-        "option": "5",
-        "is_true": "false"
-      },
-      {
-        "option": "7",
-        "is_true": "true"
-      },
-      {
-        "option": "10",
-        "is_true": "false"
-      }
-    ]
-  },
-  {
-    "question": "Кем работают родители Гермионы?",
-    "answers": [
-      {
-        "option": "УЧИТЕЛЯ",
-        "is_true": "false"
-      },
-      {
-        "option": "ДАНТИСТЫ",
-        "is_true": "true"
-      },
-      {
-        "option": "САНТЕХНИКИ",
-        "is_true": "false"
-      }
-    ]
-  },
-  {
-    "question": "Как вызвать патронуса?",
-    "answers": [
-      {
-        "option": "«ЭКСПЕКТО ПАТРОНУМ»",
-        "is_true": "true"
-      },
-      {
-        "option": "«ПАТРОНУМ ЭКСПОНСИА»",
-        "is_true": "false"
-      },
-      {
-        "option": "«ПЕРФОРАТОР ЭКСПЕРТО»",
-        "is_true": "false"
-      }
-    ]
+    ],
+    "time_limit": 150
   }
 ]
