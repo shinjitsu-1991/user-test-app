@@ -30,7 +30,7 @@ const CurrentTest = (props) => {
         }
     })
 
-    const StopTest = () => {
+    const stopTest = () => {
         editCurrentTestObj({
             ...currentTestObj,
             time: null,
@@ -56,7 +56,7 @@ const CurrentTest = (props) => {
         }
 
         if(currentTestObj.questions !== null && currentTestObj.questions.length === currentTestObj.currentQuestion) {
-            StopTest();
+            stopTest();
             return(
                 <Spinner />
             );
@@ -70,7 +70,7 @@ const CurrentTest = (props) => {
             });
             return(
                 <CurrentTestWrap>
-                    <TestTimer stopTest={StopTest} timeLimit={currentTestObj.time} />
+                    <TestTimer stopTest={stopTest} timeLimit={currentTestObj.time} />
                     <p>Current question: {currentTestObj.currentQuestion + 1} / {currentTestObj.questions.length}</p>
                     <p><strong>{currentQuestion.question}</strong></p>
                     {answersList}
